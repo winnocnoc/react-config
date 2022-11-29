@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "name": "Chair",
+      "sku_number": "10233001"
+    },
+    {
+      "name": "Sofa",
+      "sku_number": "12233566"
+    }
+  ]
+}
